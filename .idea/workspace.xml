@@ -57,7 +57,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="CensusAnalyserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="IndianCensusDay30" />
+      <module name="IndianCensusDay29" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bridgelabz.IndianStateCensus.*" />
@@ -67,6 +67,19 @@
       <option name="PACKAGE_NAME" value="com.bridgelabz.IndianStateCensus" />
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.IndianStateCensus.CensusAnalyserTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="IndianCensusDay29" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="IndianCensusDay29" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
